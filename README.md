@@ -11,3 +11,5 @@
 A ideia é criar uma página Web a partir de um design com o objetivo de aumentar meu conhecimento de HTML e CSS.
 
 Design proposto:
+
+<img src="https://github.com/maisafolgueral/odin-landing-page/blob/main/images/design.png?raw=true" width="500"><br/>
